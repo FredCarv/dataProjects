@@ -1,0 +1,4 @@
+-- ASPECTOS A SEREM ACOMPANHADOS
+- Resumo do e-commerce
+- Acompanhamento de vendas
+- Perfil dos clientes
